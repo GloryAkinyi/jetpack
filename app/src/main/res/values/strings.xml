@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Glory</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_scroll">ScrollActivity</string>
+</resources>
